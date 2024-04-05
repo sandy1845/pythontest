@@ -23,7 +23,7 @@ def div():
 def clear():
     return
 
-Button_1 = Button(root, text="1", padx=50, pady=25, command=click)
+Button_1 = Button(root, text="5", padx=50, pady=25, command=click)
 Button_2 = Button(root, text="2", padx=50, pady=25, command=click)
 Button_3 = Button(root, text="3", padx=50, pady=25, command=click)
 Button_4 = Button(root, text="4", padx=50, pady=25, command=click)
